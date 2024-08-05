@@ -1,7 +1,7 @@
-androidアプリのテンプレート
+Android app template.
 
-・最小限のview
+・Minimal view.
 
 ・Room（Local db）
 
-・kotest（Unit test / 自動化済み）
+・kotest（Unit test / Automated）
