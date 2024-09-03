@@ -2,6 +2,6 @@ Android app template.
 
 ・Minimal view.
 
-・Room（Local db）
+・SQLite（Local db）
 
 ・kotest（Unit test / Automated）
